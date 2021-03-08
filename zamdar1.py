@@ -13,7 +13,7 @@ def emil():
     #  SNAPCHAT  \ malek_faesal
     #  Program language Python
     #  (:
-    # TOOL INSTAGRAM HOTMAIL CRACKED
+    # TOOL INSTAGRAM YAHOO CRACKED
     ##########################
     \033[1;37m
     '''
@@ -26,7 +26,7 @@ def emil():
         x1=random.choice(u)
         x2=random.choice(u)
         x3=random.choice(u)
-        kokrawakan=name+x1+x2+x3+"@hotmail.com"
+        kokrawakan=name+x1+x2+x3+"@yahoo.com"
         print(kokrawakan)
         file.write(kokrawakan+"\n")
 
@@ -39,7 +39,7 @@ def chekerinsta():
     os.system("clear")
     season='''\033[1;36m
     ##########################
-    #        @Profis0r       #
+    #        @ZamDarUp       #
     ##########################
     \033[1;37m
     
